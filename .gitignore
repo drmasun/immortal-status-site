@@ -7,3 +7,5 @@ temp/
 prod.env
 
 dev.env
+
+data/data.sqlite
